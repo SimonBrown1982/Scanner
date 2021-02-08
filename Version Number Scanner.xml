@@ -1,7 +1,7 @@
 <?xml version="1.4" encoding="UTF-8"?>
 <item>
     <version>1.4</version>
-    <url></url>
+    <url>https://github.com/SimonBrown1982/Scanner/blob/main/Version%20Number%20Scanner.xml</url>
     <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
     <mandatory>false</mandatory>
 </item>
